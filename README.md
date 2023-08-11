@@ -1,8 +1,9 @@
 [![MasterHead](https://awesomescreenshot.s3.amazonaws.com/image/4731770/42161832-70f9edf3e4076ab0a96342856fbdf76b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230811T123629Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=7390efd8b658a0570ccad6aa343b5285f16af513cf075dc561f0f907ee89a25d)](https://abdlrhman1997.github.io/My_PortfolioV2)
 <h1 align="center">Hi 👋, I'm Abdlrhman Hegazy</h1>
 <h3 align="center">Creative Backend Developer who is passionate about turning logic into real life code, Skilled at creating userfriendly webpages. Always up to date to the technological trends and the tech industry</h3>
+<br>
+<br>
 <img align="right" alt="Coding" width ="350" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
 - 🔭 I’m currently working on **E-commerce Web Application**
 
 - 🌱 I’m currently learning **Nodejs**
