@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdlrhman Hegazy</h1>
-<h3 align="center">Creative Backend Developer who is passionate about turning logic into real life code, Skilled at creating userfriendly webpages. Always up to date to the technological trends and the tech industry</h3>
+<h3 align="center">Creative UX/UI designer who loves making people's life easier using design, Skilled at creating userfriendly mobile apps. Always up to date to the technological trends and the tech industry</h3>
 <br>
 <br>
 
