@@ -14,7 +14,7 @@
 
 - 📄 CV [https://drive.google.com/file/d/1kW3pqCuACOOrN6xhSfPH4vWo6rw28YTR/view?usp=sharing](https://drive.google.com/file/d/1kW3pqCuACOOrN6xhSfPH4vWo6rw28YTR/view?usp=sharing)
 
-- ⚡ Fun fact: **i planned to be a frontend then got into backend but finally the UX/UI choose me**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
