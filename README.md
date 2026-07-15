@@ -1,6 +1,6 @@
 # Hi, I'm Abdlrhman Hegazy 👋
 
-**Senior ERPNext & Frappe Developer | Product Engineer
+Senior ERPNext & Frappe Developer | Product Engineer
 
 I architect and ship enterprise ERP systems end-to-end: from requirements and UX research to backend engineering, deployment, and production support. 3+ years deep in the Frappe/ERPNext ecosystem across Manufacturing, Real Estate CRM, HR & Payroll, Stock, POS, and more.
 
