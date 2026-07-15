@@ -45,12 +45,9 @@ Production CRM for 50+ daily sales agents. Meta Lead Ads integration syncing 5,0
 **🔗 Enterprise API Integrations**
 Production integrations connecting ERPNext with Meta APIs, WhatsApp Business, AI services, and external ERP platforms.
 
-## 📊 GitHub Stats
+## ✍️ Writing
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdlrhman1997&show_icons=true&theme=default&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdlrhman1997&layout=compact&hide_border=true" height="160" alt="Top languages" />
-</p>
+I write about ERPNext, Frappe development, and product engineering on [Medium](https://medium.com/@abdlrhman.hegazy).
 
 ## 📫 Let's Connect
 
